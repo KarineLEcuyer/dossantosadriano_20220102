@@ -1,4 +1,4 @@
 # DosSantosAdriano_20220102
+![ImageMoi](media/ImageMoi.JPG)
 
-![media](ImageMoi.JPG)
-
+Mon nom est Adriano Dos Santos. J'aime la musique et mes artistes préférés sont Tyler the Creator, Frank Ocean et Brent Faiyaz.
